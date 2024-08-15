@@ -16,3 +16,6 @@
 		"ru"    "Гравитация"
 	}
 ```
+
+**Требования:**
+[VIP CORE](https://csdevs.net/resources/vip-core.511/)
